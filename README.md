@@ -57,7 +57,7 @@ This should print out `Hello Alex`.
 ### ProcessChannel(process, channelId)
 
 * `process` - `Process` is a process to send to and receive messages from. Typically server would pass in the forked process and the worker would pass in the current process.
-* `channelId` - `Number` is a unique channel number that is the same in the server and worker. It's used to deffirintiate messages coming from multiple workers.
+* `channelId` - `Number` is a unique channel number that is the same on the server and worker. It's used to differentiate messages coming from multiple workers.
 
 ### channel.send(type, data)
 
