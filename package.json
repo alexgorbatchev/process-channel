@@ -1,8 +1,14 @@
 {
   "name": "process-channel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module facilitates event based communication between parent and child process",
-  "keywords": ["process", "fork", "messaging", "communication", "events"],
+  "keywords": [
+    "process",
+    "fork",
+    "messaging",
+    "communication",
+    "events"
+  ],
   "homepage": "https://github.com/alexgorbatchev/process-channel",
   "bugs": "https://github.com/alexgorbatchev/process-channel/issues",
   "author": {
@@ -17,8 +23,7 @@
   "scripts": {
     "test": "gulp test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^1.9.1",
     "coffee-errors": "^0.8.5",
