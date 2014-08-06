@@ -1,5 +1,6 @@
 # process-channel
 
+[![GitTip](http://img.shields.io/gittip/alexgorbatchev.svg?style=flat)](https://www.gittip.com/alexgorbatchev/)
 [![Dependency status](http://img.shields.io/david/alexgorbatchev/process-channel.svg?style=flat)](https://david-dm.org/alexgorbatchev/process-channel)
 [![devDependency Status](http://img.shields.io/david/dev/alexgorbatchev/process-channel.svg?style=flat)](https://david-dm.org/alexgorbatchev/process-channel#info=devDependencies)
 [![Build Status](http://img.shields.io/travis/alexgorbatchev/process-channel.svg?style=flat&branch=master)](https://travis-ci.org/alexgorbatchev/process-channel)
